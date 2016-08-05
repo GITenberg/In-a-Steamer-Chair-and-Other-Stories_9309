@@ -1,0 +1,34 @@
+_repo: In-a-Steamer-Chair-and-Other-Stories_9309
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barr, Robert
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '1616'
+    url: http://www.gutenberg.org/2009/agents/1616
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Barr_%28writer%29
+description: Title; Contents; In a Steamer Chair and Other Shipboard Stories; In a
+  Steamer Chair; Mrs. Tremain; Share and Share Alike; An International Row; A Ladies
+  Man; A Society for the Reformation of Poker Players; The Man Who was Not on the
+  Passenger List; The Terrible Experience of Plodkins; A Case of Fever; How the Captain
+  Got His Steamer Out; My Stowaway; The Purser''s Story; Miss McMillan.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ocean travel -- Fiction'
+- GITenberg
+tableOfContents: In a steamer chair -- Mrs. Tremain -- Share and share alike -- An
+  international row -- A ladies' man -- A society for the reformation of poker players
+  -- The man who was not on the passenger list -- The terrible experience of Plodkins
+  -- A case of fever -- How the captain got his steamer out -- My stowaway -- The
+  purser's story -- Miss McMillan.
+title: In a Steamer Chair, and Other Stories
+url: http://www.gutenberg.org/ebooks/9309
